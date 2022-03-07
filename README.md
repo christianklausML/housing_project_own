@@ -1,3 +1,11 @@
+# This is a collaborative project on the California housing datset
+
+## Packages used:
+
+os
+numpy
+...
+
 # Bonus
 
 Have fun with the dataset!
